@@ -4,6 +4,6 @@ Microsoft MVP, Master Coach at Platzi, Software Engineer from the Dominican Repu
 
 I have a Xamarin Blog named AskXammy.com (My baby😍)
 
-<img src="https://github.com/LeomarisReyes/LeomarisReyes/blob/master/Logo.png" height="240" width="920"/>
+<img src="https://github.com/LeomarisReyes/LeomarisReyes/blob/master/Logo.png" height="240" width="720"/>
 
 And I really love learning new things!!! 💚💕
