@@ -4,6 +4,6 @@ Microsoft MVP, Master Coach at Platzi, Software Engineer from the Dominican Repu
 
 I invite you to my Xamarin Blogs <a href="https://askxammy.com">AskXammy.com</a> in english and <a href="https://es.askxammy.com">Es.AskXammy.com</a> in spanish! (My babies😍)
 
-Join to my <a href="https://www.facebook.com/groups/aprendiendoxamarinformsynetcore">Facebook Group!</a> 
+Join to my <a href="https://www.facebook.com/groups/aprendiendoxamarinformsynetcore">Xamarin Facebook Group!</a> 
 
 I really love learning new things!!! 💚💕
