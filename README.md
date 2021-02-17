@@ -11,6 +11,8 @@ Join to my <a href="https://www.facebook.com/groups/aprendiendoxamarinformsynetc
 
 I really love learning new things!!! 💚💕
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeomarisReyes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d55e9a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
+
 
 ## 📝 Contac me 
 
