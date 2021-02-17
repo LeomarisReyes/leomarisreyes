@@ -14,11 +14,7 @@ I really love learning new things!!! 💚💕
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeomarisReyes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=d55e9a&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats">
 
 
-## 📝 Contac me 
-
-| Social | Link |
-|---|---|
-|LinkedIn |**[My LinkedIn profile!](https://do.linkedin.com/in/leomaris-reyes-1b598661)**|
-|Email | **You can write me to <a href="mailto:lreyes@stemelle.com">lreyes@stemelle.com<a>**|
-|Twitter | **[Follow me on Twitter!](https://twitter.com/LeomarisReyes11)**|
+## 📝  Contac me  
+   
+<a href="https://do.linkedin.com/in/leomaris-reyes-1b598661" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="174"></a> | <a href="https://twitter.com/LeomarisReyes11" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="41" width="174"></a>
 
