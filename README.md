@@ -10,3 +10,13 @@ I invite you to my Xamarin Blogs <a href="https://askxammy.com">AskXammy.com</a>
 Join to my <a href="https://www.facebook.com/groups/aprendiendoxamarinformsynetcore">Xamarin Facebook Group!</a> 
 
 I really love learning new things!!! 💚💕
+
+
+## 📝 Contac me 
+
+| Social | Link |
+|---|---|
+|LinkedIn |**[My LinkedIn profile!](https://do.linkedin.com/in/leomaris-reyes-1b598661)**|
+|Email | **You can write me to <a href="mailto:lreyes@stemelle.com">lreyes@stemelle.com<a>**|
+|Twitter | **[Follow me on Twitter!](https://twitter.com/LeomarisReyes11)**|
+
